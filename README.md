@@ -1,3 +1,3 @@
 # eliscaretex-coder.github.io
 
-Notice page only. The old address https://eliscaretex-coder.github.io/ElisCaretex/ moved to https://elis-ballymount.pages.dev/ and this page sends visitors there.
+No longer used. The Elis Ballymount system lives only at https://elis-ballymount.pages.dev/.
